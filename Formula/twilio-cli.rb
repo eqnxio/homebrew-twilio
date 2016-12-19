@@ -2,9 +2,9 @@ class TwilioCli < Formula
   desc ''
   homepage 'https://dl.equinox.io/twilio/twilio-cli'
 
-  url 'https://bin.equinox.io/a/mtvTHtcyCcS/twilio-cli-0.0.5-darwin-amd64.tar.gz'
-  sha256 '42b7b47fe83384a08c158c9cfa27753f5c4e821317f76688ab5a37d4d5ec0e2b'
-  version '0.0.5'
+  url 'https://bin.equinox.io/a/7NukcThwg5V/twilio-cli-0.0.6-darwin-amd64.tar.gz'
+  sha256 'b88e6ede57d1518926d77caf14110c7c61e416b5da80e2432a5994e387a3694e'
+  version '0.0.6'
 
   def install
     bin.install 'twilio'
